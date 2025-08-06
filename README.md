@@ -2,7 +2,7 @@
 
 ## Calcule seu imc:
 
-![Print do resultado].(./imc.png).
+![Print do resultado](./Imc.png)
 
 esse projeto [imc](https://expo.dev) foi criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
